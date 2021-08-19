@@ -1,0 +1,1 @@
+# Gesture-recognition-using-transfer-learning-on-on-NVIDIA-Jetson-Nano-2GB-Developer-Kit
