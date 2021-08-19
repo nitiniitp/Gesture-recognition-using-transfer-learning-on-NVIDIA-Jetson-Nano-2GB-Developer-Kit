@@ -1,1 +1,1 @@
-# Gesture-recognition-using-transfer-learning-on-on-NVIDIA-Jetson-Nano-2GB-Developer-Kit
+# Gesture-recognition-using-transfer-learning-on-on-NVIDIA-Jetson-Nano-2GB-Developer-Kit (I am PhD student at Kyushu Institute of technology and this project was completed under the guidance of Professor Hakaru Tamukoh (https://www.brain.kyutech.ac.jp/~tamukoh/en/member_e/tamukoh/). Professor Hakaru Tamukoh works at the Department of Life science and System Engineering at Kyushu Institute of Technology, Japan (tamukoh@brain.kyutech.ac.jp).)
